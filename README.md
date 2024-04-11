@@ -9,7 +9,7 @@ Github：https://github.com/F-know/F_Record
 PS插件开发博客：https://uiscripting.com  这个插件的所有内容都是我跟着这位大佬写的博客一步步完成的，耗时一周。  
 
 ## 安装方法
-插件介绍及安装视频教程：[https://www.bilibili.com/video/BV15S421K7Pt](https://www.bilibili.com/video/BV15S421K7Pt)
+插件介绍及安装视频教程：[https://www.bilibili.com/video/BV15S421K7Pt](https://www.bilibili.com/video/BV15S421K7Pt)  
 2.0补充说明视频教程：[https://www.bilibili.com/video/BV1bm411Z762](https://www.bilibili.com/video/BV1bm411Z762)
 
 如果之前安装了1.0版本的请先把1.0删掉。同一个绘画过程不要两个版本各录一部分。  
